@@ -2,3 +2,6 @@ pervaja stroka
 vtoraja stroka
 tretja stroka
 thetvertaja stroka
+
+6
+7
