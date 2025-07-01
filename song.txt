@@ -1,2 +1,4 @@
 pervaja stroka
 vtoraja stroka
+tretja stroka
+thetvertaja stroka
